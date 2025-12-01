@@ -1,0 +1,4 @@
+/* Minimal root styles, layout handled by Tailwind in index.css */
+#root {
+  min-height: 100vh;
+}
