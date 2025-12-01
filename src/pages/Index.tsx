@@ -61,9 +61,9 @@ const Index = () => {
 
         {/* Reward Buttons */}
         <div className="space-y-4 sm:space-y-5 animate-fade-in">
-          <RewardButton logo="💵" brand="Cash Giftcard" amount="$750 Instant Cash Giftcard" description="(Enter email & complete deals)" brandImage={cashGiftcardLogo} onClick={() => window.location.href = "https://rewardlnk.com/aff_c?offer_id=1232&aff_id=111291"} />
+          <RewardButton logo="💵" brand="Cash Giftcard" amount="$750 Instant Cash Giftcard" description="(Enter email & complete deals)" brandImage={cashGiftcardLogo} onClick={() => window.location.href = "https://glctrk.org/aff_c?offer_id=1595&aff_id=158779"} />
           
-          <RewardButton logo="📦" brand="Amazon" amount="$750 Amazon Gift Voucher" description="(Enter email & complete deals)" brandImage={amazonLogo} onClick={() => window.location.href = "https://rewardlnk.com/aff_c?offer_id=1840&aff_id=111291&source=fst"} />
+          <RewardButton logo="📦" brand="Amazon" amount="$750 Amazon Gift Voucher" description="(Enter email & complete deals)" brandImage={amazonLogo} onClick={() => window.location.href = "https://gloffers.org/aff_c?offer_id=144&aff_id=158779"} />
         </div>
 
         {/* Trust Icons */}
